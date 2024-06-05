@@ -12,7 +12,7 @@ const Navbar = () => {
     <nav className="bg-transparent w-full z-20 top-0 start-0 relative">
       <img src={star} className='absolute p-12' alt="" />
       <div className="max-w-screen-xl flex flex-wrap items-cente justify-between mx-auto p-4">
-        <a href="https://flowbite.com/" className="flex items-center space-x-3 rtl:space-x-reverse">
+        <a href="https:https://uifry-tishagaur.vercel.app/" className="flex items-center space-x-3 rtl:space-x-reverse">
           <img src={logo} className="h-8" alt="Flowbite Logo" />
           {/* <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Flowbite</span> */}
         </a>
