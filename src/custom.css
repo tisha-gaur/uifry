@@ -1,0 +1,8 @@
+.p {
+    @apply text-sm;
+    @apply sm:text-lg;
+    @apply text-slate-400;
+    @apply tracking-wider;
+
+    @apply font-normal;
+}
